@@ -44,10 +44,9 @@ Program to design a half subtractor and full subtractor circuit and verify its t
 
 Developed by:SANTHOSH KUMAR R
 
-RegisterNumber:23000966  
+RegisterNumber:23000966
 
-![image](https://github.com/23000966/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153983364/68c467cd-e0a3-47f1-8fa5-e1fd3429d9e5)
-
+![image](https://github.com/23000966/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153983364/eae385d3-b1d3-472e-b669-73932ba425e4)
 
 
 ## Output:
