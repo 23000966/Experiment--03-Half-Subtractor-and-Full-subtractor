@@ -46,16 +46,9 @@ Developed by:SANTHOSH KUMAR R
 
 RegisterNumber:23000966  
 
+![image](https://github.com/23000966/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153983364/68c467cd-e0a3-47f1-8fa5-e1fd3429d9e5)
 
-module EX04HSDE(output b,d,input x,y);
-assign d=x^y;
-assign b=~x&y;
-endmodule
 
-module EX04FSDE(output d,b,input x,y,z);
-assign d=x^y^z;
-assign b=~x&(y^z)|y&z;
-endmodule
 
 ## Output:
 
